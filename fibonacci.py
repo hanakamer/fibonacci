@@ -44,27 +44,31 @@ class Fibonacci:
                 b += temp
             return a
 
+            
+##############
+# You can uncomment these lines to compare the methods and their performances
+##############
 
-fibo = Fibonacci()
+# fibo = Fibonacci()
 
 # start_time_reccursive = time.time()
-# recursive_result = fibo.recursive_fib(40)
+# recursive_result = fibo.recursive_fib(5)
 # stop_time_reccursive = time.time()
 #
 # recursive_time = stop_time_reccursive - start_time_reccursive
 #
 # start_time_bottomup = time.time()
-# bottomup_result = fibo.bottomup_fib(40)
+# bottomup_result = fibo.bottomup_fib(5)
 # stop_time_bottomup = time.time()
 #
 # bottomup_time = stop_time_bottomup - start_time_bottomup
 #
-start_time_iterative = time.time()
-iterative_result = fibo.iterative_fib(40)
-stop_time_iterative = time.time()
-
-iterative_time = stop_time_iterative - start_time_iterative
+# start_time_iterative = time.time()
+# iterative_result = fibo.iterative_fib(5)
+# stop_time_iterative = time.time()
+#
+# iterative_time = stop_time_iterative - start_time_iterative
 
 # print("--- %s seconds --- recursive" % (recursive_time))
 # print("--- %s seconds --- bottomup" % (bottomup_time))
-print("--- %s seconds --- iterative" % (iterative_time))
+# print("--- %s seconds --- iterative" % (iterative_time))
