@@ -27,5 +27,5 @@ Tekrarlamalı yaklaşımda bir for döngüsünde işlemleri tekrarlamamıza rağ
 
 Aşağıdaki değerler fibonacci serisinin 40. elemanını hesaplarken harcanan zamanlardır.
 
-![alt tag](https://raw.githubusercontent.com/hanakamer/fibonacci/blob/master/time.png)
+![alt tag](https://raw.githubusercontent.com/hanakamer/fibonacci/master/time.png)
 
