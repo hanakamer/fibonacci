@@ -26,3 +26,5 @@ Tek seferde liste oluşturarak hesapladığımızda daha önce yaptığımız he
 Tekrarlamalı yaklaşımda bir for döngüsünde işlemleri tekrarlamamıza rağmen elde ettiğimiz değeri bir sonraki işlem için kaydettiğimiz için özyinelemeli yaklaşım kadar performanssız bir sonuçla karşılaşmayız.
 
 Aşağıdaki değerler fibonacci serisinin 40. elemanını hesaplarken harcanan zamanlardır.
+
+[[https://github.com/hanakamer/fibonacci/time.png|alt=performance]]
